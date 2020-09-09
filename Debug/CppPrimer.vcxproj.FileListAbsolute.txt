@@ -1,0 +1,2 @@
+C:\Users\carl\source\repos\CppPrimer\Debug\CppPrimer.exe
+C:\Users\carl\source\repos\CppPrimer\Debug\CppPrimer.pdb
